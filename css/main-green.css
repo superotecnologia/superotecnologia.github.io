@@ -121,6 +121,14 @@ p.lead {
 
 img {
   /****HERE*****/
+  vertical-align: bottom;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+img.rounded-image {
   border-radius: 50%;
   vertical-align: bottom;
   max-width: 100%;
