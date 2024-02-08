@@ -1143,6 +1143,28 @@ body > footer .copyrights {
   height: 10px;
   padding: 0;
 }
+
+/** My ADDS HERE */
+.skill-container-alt {
+  position: relative;
+  height: 20px;
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+.skill-percentage-alt {
+  height: 100%;
+  background-color: #3498db;
+}
+
+.skill-label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #000;
+}
+
 /* Animate skills on subpage load */
 .pt-page .skill-percentage {
   -webkit-transition: all 2s ease-in-out;
