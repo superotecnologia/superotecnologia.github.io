@@ -137,6 +137,14 @@ img.rounded-image {
   -ms-interpolation-mode: bicubic;
 }
 
+img.short {
+  /****HERE*****/
+  max-width: 50%;
+  align-items: center;
+  display: block;
+  margin: 0 auto; 
+}
+
 .page {
   position: relative;
   width: 100%;
