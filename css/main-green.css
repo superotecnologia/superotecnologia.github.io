@@ -876,12 +876,24 @@ body > footer .copyrights {
   background-repeat: no-repeat;
 }
 
+.custom-page-content .page-header.color-5 {
+  background-color: #03632e;
+  background-image: url(../images/sp_main_bg.png);
+  background-size: cover;
+  -webkit-background-size: cover;
+  background-attachment: scroll;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 .custom-page-content .page-header.color-1 h2,
 .custom-page-content .page-header.color-2 h2,
 .custom-page-content .page-header.color-3 h2,
 .custom-page-content .page-header.color-4 h2 {
   color: #fff;
 }
+
+
 
 .custom-page-content .page-content {
   background-color: #fff;
