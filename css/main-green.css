@@ -128,6 +128,10 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+.clikin {
+  cursor: pointer;
+}
+
 img.rounded-image {
   border-radius: 50%;
   vertical-align: bottom;
