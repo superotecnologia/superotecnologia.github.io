@@ -77,9 +77,9 @@ body.ajax-page-visible {
 }
 
 a {
-  /***HERE*#E86836**/
-  /*color: #E86836;*/
-  color: #E86836;
+  /***HERE*#74180c**/
+  /*color: #74180c;*/
+  color: #74180c;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -121,32 +121,12 @@ p.lead {
 
 img {
   /****HERE*****/
-  vertical-align: bottom;
-  max-width: 100%;
-  height: auto;
-  border: 0;
-  -ms-interpolation-mode: bicubic;
-}
-
-.clikin {
-  cursor: pointer;
-}
-
-img.rounded-image {
   border-radius: 50%;
   vertical-align: bottom;
   max-width: 100%;
   height: auto;
   border: 0;
   -ms-interpolation-mode: bicubic;
-}
-
-img.short {
-  /****HERE*****/
-  max-width: 50%;
-  align-items: center;
-  display: block;
-  margin: 0 auto; 
 }
 
 .page {
@@ -209,9 +189,9 @@ textarea.form-control, textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*background: #2eca7f;*/
-  background: #E86836;
+  background: #74180c;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -316,9 +296,9 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
  /* color: #2eca7f;*/
-  color: #E86836;
+  color: #74180c;
 }
 /* /Form controls */
 
@@ -353,26 +333,13 @@ button, input[type="button"], input[type="submit"] {
   border-radius: 3px;
 }
 
-.btn-other,
-button, input[type="button"], input[type="submit"] {
-  text-transform: uppercase;
-  font-family: inherit;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 2.8;
-  padding: 0 1.5em;
-  outline: none;
-  border: 0;
-  border-radius: 10px;
-}
-
 .btn-primary,
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
- /***HERE*#E86836**/
+ /***HERE*#74180c**/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -399,14 +366,14 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 .border-top {
   /**HERE**/
   /*border-top: 2px solid #2eca7f;*/
-  border-top: 2px solid #E86836;
+  border-top: 2px solid #74180c;
   
 }
 
 .border-bottom {
   /**HERE* #9e51f3*/
   /*border-bottom: 2px solid #2eca7f;*/
-  border-bottom: 2px solid #E86836;
+  border-bottom: 2px solid #74180c;
 }
 
 /* Footer */
@@ -482,8 +449,8 @@ body > footer .copyrights {
 
 .preloader-spinner:after {
   border-color: transparent;
-  /**HERE* #E86836*/
-  border-top-color: #E86836;
+  /**HERE* #74180c*/
+  border-top-color: #74180c;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
 }
@@ -703,7 +670,7 @@ body > footer .copyrights {
 .site-title span {
   /**HERE* #9e51f3*/
   /*color: #2eca7f;*/
-  color: #E86836;
+  color: #74180c;
 }
 
 .header.sticked .site-title {
@@ -780,7 +747,7 @@ body > footer .copyrights {
   margin: 0 auto;
   /**HERE* #9e51f3*/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -846,7 +813,7 @@ body > footer .copyrights {
 .block-title h3 span {
   /**HERE* #9e51f3*/
   /*color: #2eca7f;*/
-  color: #E86836;
+  color: #74180c;
 }
 
 .custom-page-content .block {
@@ -871,17 +838,7 @@ body > footer .copyrights {
 .custom-page-content .page-header.color-1 {
   /**HERE* #9e51f3*/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
-  background-image: url(../images/sp_main_bg.png);
-  background-size: cover;
-  -webkit-background-size: cover;
-  background-attachment: scroll;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-
-.custom-page-content .page-header.color-5 {
-  background-color: #03632e;
+  background-color: #74180c;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -897,8 +854,6 @@ body > footer .copyrights {
   color: #fff;
 }
 
-
-
 .custom-page-content .page-content {
   background-color: #fff;
 }
@@ -913,10 +868,10 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  /**HERE* #E86836*//*MAIN*/
-  background-color: #E86836;
+  /**HERE* #74180c*//*MAIN*/
+  background-color: #74180c;
  /* background-image: linear-gradient(red, yellow);*/
-  /*background-color: #E86836;*/
+  /*background-color: #74180c;*/
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -1065,9 +1020,9 @@ body > footer .copyrights {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*border-left: 2px solid #2eca7f;*/
-  border-left: 2px solid #E86836;
+  border-left: 2px solid #74180c;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
 }
 
@@ -1089,8 +1044,8 @@ body > footer .copyrights {
   height: 12px;
   top: 20px;
   left: -29px;
-  /**HERE* #E86836*/
-  border: 2px solid #E86836;
+  /**HERE* #74180c*/
+  border: 2px solid #74180c;
   z-index: 2;
 }
 
@@ -1098,8 +1053,8 @@ body > footer .copyrights {
   content: '';
   display: inline-block;
   position: absolute;
-  /**HERE* #E86836*/
-  background-color: #E86836;
+  /**HERE* #74180c*/
+  background-color: #74180c;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -1119,9 +1074,9 @@ body > footer .copyrights {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
  /* color: #2eca7f;*/
- color: #E86836;
+ color: #74180c;
   margin-bottom: 8px;
 }
 
@@ -1134,165 +1089,6 @@ body > footer .copyrights {
   margin-bottom: 8px;
   padding-left: 8px;
   border-left: 1px solid #e0e0e0;
-}
-
-.item-description {
-  max-height: 200px; /* Set the maximum height you want to display initially */
-  overflow: hidden;
-}
-
-#expand-link {
-  display: block;
-  margin-top: 10px;
-  color: blue;
-  cursor: pointer;
-}
-
-/*TREE*/
-
-body.tree {
-	width: 10000px;
-	overflow-x: scroll;
-}
-
-button.tree {
-	margin: 20px;
-	background-color: white;
-	color: black;
-	font-size: 16px;
-	font-weight: bold;
-	padding: 10px;
-	border: 1px solid #ccc;
-	border-radius: 5px;
-}
-p.info-tree {
-	padding: 10px;
-	font-size: 14px;
-	color: #ccc;
-}
-.parent-tree, .couple div {
-	float: left;
-	width: 50%;
-}
-
-span.dob-tree {
-	font-size: 16px;
-	color: #666;
-}
-
-.tree ul {
-	padding-top: 20px; position: relative;
-	
-	transition: all 0.5s;
-	-webkit-transition: all 0.5s;
-	-moz-transition: all 0.5s;
-}
-
-.tree li {
-	float: left; text-align: center;
-	list-style-type: none;
-	position: relative;
-	padding: 20px 5px 0 5px;
-	
-	transition: all 0.5s;
-	-webkit-transition: all 0.5s;
-	-moz-transition: all 0.5s;
-}
-
-.tree li img {
-	display: block;
-	margin: 0 auto;
-	width: 90px;
-	border-radius: 50%;
-}
-.tree li span {
-	display: block;
-}
-.tree li .parent {
-	margin: 10px 0px;
-}
-
-.tree li ul {
-	display: none;
-}
-
-/*We will use ::before and ::after to draw the connectors*/
-
-.tree li::before, .tree li::after{
-	content: '';
-	position: absolute; top: 0; right: 50%;
-	border-top: 1px solid #ccc;
-	width: 50%; height: 20px;
-}
-.tree li::after{
-	right: auto; left: 50%;
-	border-left: 1px solid #ccc;
-}
-
-/*We need to remove left-right connectors from elements without 
-any siblings*/
-.tree li:only-child::after, .tree li:only-child::before {
-	display: none;
-}
-
-/*Remove space from the top of single children*/
-.tree li:only-child{ padding-top: 0;}
-
-/*Remove left connector from first child and 
-right connector from last child*/
-.tree li:first-child::before, .tree li:last-child::after{
-	border: 0 none;
-}
-/*Adding back the vertical connector to the last nodes*/
-.tree li:last-child::before{
-	border-right: 1px solid #ccc;
-	border-radius: 0 5px 0 0;
-	-webkit-border-radius: 0 5px 0 0;
-	-moz-border-radius: 0 5px 0 0;
-}
-.tree li:first-child::after{
-	border-radius: 5px 0 0 0;
-	-webkit-border-radius: 5px 0 0 0;
-	-moz-border-radius: 5px 0 0 0;
-}
-
-/*Time to add downward connectors from parents*/
-.tree ul ul::before{
-	content: '';
-	position: absolute; top: 0; left: 50%;
-	border-left: 1px solid #ccc;
-	width: 0; height: 20px;
-}
-
-.tree li a{
-	border: 1px solid #ccc;
-	padding: 5px 10px;
-	text-decoration: none;
-	color: #666;
-	font-family: arial, verdana, tahoma;
-	font-size: 18px;
-	display: inline-block;
-	
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	
-	transition: all 0.5s;
-	-webkit-transition: all 0.5s;
-	-moz-transition: all 0.5s;
-}
-
-/*Time for some hover effects*/
-/*We will apply the hover effect the the lineage of the element also*/
-.tree li a:hover, .tree li a:hover+ul li a {
-	background: #c8e4f8; color: #000; border: 1px solid #94a0b4;
-}
-/*Connector styles on hover*/
-.tree li a:hover+ul li::after, 
-.tree li a:hover+ul li::before, 
-.tree li a:hover+ul::before, 
-.tree li a:hover+ul ul::before{
-	border-color:  #94a0b4;
 }
 
 
@@ -1321,33 +1117,11 @@ right connector from last child*/
 }
 
 .skill-percentage {
-  /**HERE* #E86836*/
-  background-color: #E86836;
+  /**HERE* #74180c*/
+  background-color: #74180c;
   height: 10px;
   padding: 0;
 }
-
-/** My ADDS HERE */
-.skill-container-alt {
-  position: relative;
-  height: 20px;
-  background-color: #f0f0f0;
-  margin-bottom: 10px;
-}
-
-.skill-percentage-alt {
-  height: 100%;
-  background-color: #E86836;
-}
-
-.skill-label {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: #000;
-}
-
 /* Animate skills on subpage load */
 .pt-page .skill-percentage {
   -webkit-transition: all 2s ease-in-out;
@@ -1451,9 +1225,9 @@ right connector from last child*/
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -1528,9 +1302,9 @@ right connector from last child*/
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*color: #2eca7f;*/
-  color: #E86836;
+  color: #74180c;
 }
 /* /Fun Facts */
 
@@ -1578,9 +1352,9 @@ right connector from last child*/
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*border-top: 2px solid #2eca7f;*/
-  border-top: 2px solid #E86836;
+  border-top: 2px solid #74180c;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1664,9 +1438,9 @@ right connector from last child*/
   content: '';
   height: 2px;
   margin-top: 0;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1743,9 +1517,9 @@ right connector from last child*/
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
 
   color: #fff;
 }
@@ -1790,9 +1564,9 @@ right connector from last child*/
   left: 0;
   right: 0;
   bottom: 0;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
   opacity: 0.8;
   z-index: 0;
 }
@@ -1918,9 +1692,9 @@ right connector from last child*/
 
 .blog-card .post-date span {
   display: block;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*color: #2eca7f;*/
-  color: #E86836;
+  color: #74180c;
   line-height: 1;
   font-size: 12px;
   margin: 0;
@@ -2061,9 +1835,9 @@ right connector from last child*/
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*color: #2eca7f;*/
-  color:#E86836;
+  color:#74180c;
   text-align: center;
   line-height: 36px;
 }
@@ -2114,9 +1888,9 @@ right connector from last child*/
 .testimonials.owl-carousel .owl-nav .owl-prev:hover,
 .testimonials.owl-carousel .owl-nav .owl-next:hover {
   color: #fff;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*background-color: #2eca7f;*/
-  background-color: #E86836;
+  background-color: #74180c;
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:before,
@@ -2287,9 +2061,9 @@ right connector from last child*/
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*color: #2eca7f;*/
-  color: #E86836;
+  color: #74180c;
 }
 
 .ajax-page-nav > div.nav-item a i {
@@ -2334,8 +2108,8 @@ right connector from last child*/
 }
 
 .project-general-info .fa {
-  /***HERE*#E86836**/
-  color: #E86836;
+  /***HERE*#74180c**/
+  color: #74180c;
   margin-right: 5px;
 }
 
@@ -2362,8 +2136,8 @@ right connector from last child*/
 
 .share-buttons a:hover {
   color: #fff;
-  /***HERE*#E86836**/
-  background-color: #E86836;
+  /***HERE*#74180c**/
+  background-color: #74180c;
   border-color: transparent;
 }
 
@@ -2449,9 +2223,9 @@ right connector from last child*/
 
 blockquote {
   margin: 20px 0;
-  /***HERE*#E86836**/
+  /***HERE*#74180c**/
   /*border-left: 3px solid #2eca7f;*/
-  border-left: 3px solid #E86836;
+  border-left: 3px solid #74180c;
   font-style: italic;
 }
 
@@ -2587,8 +2361,8 @@ blockquote footer, blockquote small, blockquote .small {
     top: 50px;
     z-index: 1001;
     overflow: auto;
-    /***HERE*#E86836**/
-    background-color: #E86836;
+    /***HERE*#74180c**/
+    background-color: #74180c;
     -webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
@@ -2624,8 +2398,8 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    /***HERE*#E86836**/
-    background-color: #E86836;
+    /***HERE*#74180c**/
+    background-color: #74180c;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
